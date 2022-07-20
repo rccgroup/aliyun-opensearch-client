@@ -15,6 +15,8 @@ gem install 'aliyun-opensearch-client'
 ## Usage
 
 ```ruby
+require 'aliyun/opensearch'
+
 # 1. 添加配置
 Aliyun::Opensearch::Configuration.endpoint = 'opensearch-cn-hangzhou.aliyuncs.com'
 Aliyun::Opensearch::Configuration.access_key_id = 'A*****************z'

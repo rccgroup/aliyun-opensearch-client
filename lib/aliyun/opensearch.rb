@@ -6,10 +6,10 @@ require 'faraday'
 require 'json'
 require 'openssl'
 
-require 'aliyun/opensearch/client'
-require 'aliyun/opensearch/configuration'
-require 'aliyun/opensearch/error'
 require 'aliyun/opensearch/version'
+require 'aliyun/opensearch/error'
+require 'aliyun/opensearch/configuration'
+require 'aliyun/opensearch/client'
 
 module Aliyun
   #

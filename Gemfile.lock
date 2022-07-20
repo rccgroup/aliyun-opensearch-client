@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    aliyun-opensearch-client (0.1.1)
+    aliyun-opensearch-client (0.1.2)
       faraday (>= 0.10.0)
 
 GEM
